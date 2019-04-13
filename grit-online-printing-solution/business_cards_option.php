@@ -1,0 +1,1089 @@
+<form method="post" action="options.php" class='form-group'>
+
+
+
+
+
+
+
+	<?php wp_nonce_field('update-options') ?>
+
+
+
+
+
+
+
+<p><h1 class='title'>BUSINESS CARDS | 14 pt. Gloss Coated Cover (C2S) with High Gloss UV
+</h1>
+
+
+
+
+
+<div class='table-responsive'>
+
+
+
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_1_color_1_cost_1"  value="<?php echo get_option('bcard_size_1_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_1_color_1_cost_2"  value="<?php echo get_option('bcard_size_1_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_3"  value="<?php echo get_option('bcard_size_1_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_4"  value="<?php echo get_option('bcard_size_1_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_5"  value="<?php echo get_option('bcard_size_1_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_6"  value="<?php echo get_option('bcard_size_1_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_7"  value="<?php echo get_option('bcard_size_1_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_8"  value="<?php echo get_option('bcard_size_1_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_1_color_1_cost_9"  value="<?php echo get_option('bcard_size_1_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_1_color_2_cost_1"  value="<?php echo get_option('bcard_size_1_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_1_color_2_cost_2"  value="<?php echo get_option('bcard_size_1_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_3"  value="<?php echo get_option('bcard_size_1_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_4"  value="<?php echo get_option('bcard_size_1_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_5"  value="<?php echo get_option('bcard_size_1_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_6"  value="<?php echo get_option('bcard_size_1_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_7"  value="<?php echo get_option('bcard_size_1_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_8"  value="<?php echo get_option('bcard_size_1_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_1_color_2_cost_9"  value="<?php echo get_option('bcard_size_1_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_1_color_3_cost_1"  value="<?php echo get_option('bcard_size_1_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_1_color_3_cost_2"  value="<?php echo get_option('bcard_size_1_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_3"  value="<?php echo get_option('bcard_size_1_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_4"  value="<?php echo get_option('bcard_size_1_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_5"  value="<?php echo get_option('bcard_size_1_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_6"  value="<?php echo get_option('bcard_size_1_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_7"  value="<?php echo get_option('bcard_size_1_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_8"  value="<?php echo get_option('bcard_size_1_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_1_color_3_cost_9"  value="<?php echo get_option('bcard_size_1_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_2_color_1_cost_1"  value="<?php echo get_option('bcard_size_2_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_2_color_1_cost_2"  value="<?php echo get_option('bcard_size_2_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_3"  value="<?php echo get_option('bcard_size_2_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_4"  value="<?php echo get_option('bcard_size_2_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_5"  value="<?php echo get_option('bcard_size_2_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_6"  value="<?php echo get_option('bcard_size_2_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_7"  value="<?php echo get_option('bcard_size_2_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_8"  value="<?php echo get_option('bcard_size_2_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_2_color_1_cost_9"  value="<?php echo get_option('bcard_size_2_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_2_color_2_cost_1"  value="<?php echo get_option('bcard_size_2_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_2_color_2_cost_2"  value="<?php echo get_option('bcard_size_2_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_3"  value="<?php echo get_option('bcard_size_2_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_4"  value="<?php echo get_option('bcard_size_2_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_5"  value="<?php echo get_option('bcard_size_2_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_6"  value="<?php echo get_option('bcard_size_2_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_7"  value="<?php echo get_option('bcard_size_2_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_8"  value="<?php echo get_option('bcard_size_2_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_2_color_2_cost_9"  value="<?php echo get_option('bcard_size_2_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_2_color_3_cost_1"  value="<?php echo get_option('bcard_size_2_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_2_color_3_cost_2"  value="<?php echo get_option('bcard_size_2_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_3"  value="<?php echo get_option('bcard_size_2_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_4"  value="<?php echo get_option('bcard_size_2_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_5"  value="<?php echo get_option('bcard_size_2_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_6"  value="<?php echo get_option('bcard_size_2_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_7"  value="<?php echo get_option('bcard_size_2_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_8"  value="<?php echo get_option('bcard_size_2_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_2_color_3_cost_9"  value="<?php echo get_option('bcard_size_2_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_3_color_1_cost_1"  value="<?php echo get_option('bcard_size_3_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_3_color_1_cost_2"  value="<?php echo get_option('bcard_size_3_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_3"  value="<?php echo get_option('bcard_size_3_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_4"  value="<?php echo get_option('bcard_size_3_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_5"  value="<?php echo get_option('bcard_size_3_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_6"  value="<?php echo get_option('bcard_size_3_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_7"  value="<?php echo get_option('bcard_size_3_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_8"  value="<?php echo get_option('bcard_size_3_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_3_color_1_cost_9"  value="<?php echo get_option('bcard_size_3_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_3_color_2_cost_1"  value="<?php echo get_option('bcard_size_3_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_3_color_2_cost_2"  value="<?php echo get_option('bcard_size_3_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_3"  value="<?php echo get_option('bcard_size_3_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_4"  value="<?php echo get_option('bcard_size_3_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_5"  value="<?php echo get_option('bcard_size_3_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_6"  value="<?php echo get_option('bcard_size_3_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_7"  value="<?php echo get_option('bcard_size_3_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_8"  value="<?php echo get_option('bcard_size_3_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_3_color_2_cost_9"  value="<?php echo get_option('bcard_size_3_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_3_color_3_cost_1"  value="<?php echo get_option('bcard_size_3_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_3_color_3_cost_2"  value="<?php echo get_option('bcard_size_3_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_3"  value="<?php echo get_option('bcard_size_3_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_4"  value="<?php echo get_option('bcard_size_3_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_5"  value="<?php echo get_option('bcard_size_3_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_6"  value="<?php echo get_option('bcard_size_3_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_7"  value="<?php echo get_option('bcard_size_3_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_8"  value="<?php echo get_option('bcard_size_3_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_3_color_3_cost_9"  value="<?php echo get_option('bcard_size_3_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_4_color_1_cost_1"  value="<?php echo get_option('bcard_size_4_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_4_color_1_cost_2"  value="<?php echo get_option('bcard_size_4_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_3"  value="<?php echo get_option('bcard_size_4_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_4"  value="<?php echo get_option('bcard_size_4_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_5"  value="<?php echo get_option('bcard_size_4_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_6"  value="<?php echo get_option('bcard_size_4_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_7"  value="<?php echo get_option('bcard_size_4_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_8"  value="<?php echo get_option('bcard_size_4_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_4_color_1_cost_9"  value="<?php echo get_option('bcard_size_4_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_4_color_2_cost_1"  value="<?php echo get_option('bcard_size_4_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_4_color_2_cost_2"  value="<?php echo get_option('bcard_size_4_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_3"  value="<?php echo get_option('bcard_size_4_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_4"  value="<?php echo get_option('bcard_size_4_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_5"  value="<?php echo get_option('bcard_size_4_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_6"  value="<?php echo get_option('bcard_size_4_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_7"  value="<?php echo get_option('bcard_size_4_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_8"  value="<?php echo get_option('bcard_size_4_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_4_color_2_cost_9"  value="<?php echo get_option('bcard_size_4_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_4_color_3_cost_1"  value="<?php echo get_option('bcard_size_4_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_4_color_3_cost_2"  value="<?php echo get_option('bcard_size_4_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_3"  value="<?php echo get_option('bcard_size_4_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_4"  value="<?php echo get_option('bcard_size_4_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_5"  value="<?php echo get_option('bcard_size_4_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_6"  value="<?php echo get_option('bcard_size_4_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_7"  value="<?php echo get_option('bcard_size_4_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_8"  value="<?php echo get_option('bcard_size_4_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_4_color_3_cost_9"  value="<?php echo get_option('bcard_size_4_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_5_color_1_cost_1"  value="<?php echo get_option('bcard_size_5_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_5_color_1_cost_2"  value="<?php echo get_option('bcard_size_5_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_3"  value="<?php echo get_option('bcard_size_5_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_4"  value="<?php echo get_option('bcard_size_5_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_5"  value="<?php echo get_option('bcard_size_5_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_6"  value="<?php echo get_option('bcard_size_5_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_7"  value="<?php echo get_option('bcard_size_5_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_8"  value="<?php echo get_option('bcard_size_5_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_5_color_1_cost_9"  value="<?php echo get_option('bcard_size_5_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_5_color_2_cost_1"  value="<?php echo get_option('bcard_size_5_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_5_color_2_cost_2"  value="<?php echo get_option('bcard_size_5_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_3"  value="<?php echo get_option('bcard_size_5_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_4"  value="<?php echo get_option('bcard_size_5_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_5"  value="<?php echo get_option('bcard_size_5_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_6"  value="<?php echo get_option('bcard_size_5_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_7"  value="<?php echo get_option('bcard_size_5_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_8"  value="<?php echo get_option('bcard_size_5_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_5_color_2_cost_9"  value="<?php echo get_option('bcard_size_5_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_5_color_3_cost_1"  value="<?php echo get_option('bcard_size_5_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_5_color_3_cost_2"  value="<?php echo get_option('bcard_size_5_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_3"  value="<?php echo get_option('bcard_size_5_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_4"  value="<?php echo get_option('bcard_size_5_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_5"  value="<?php echo get_option('bcard_size_5_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_6"  value="<?php echo get_option('bcard_size_5_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_7"  value="<?php echo get_option('bcard_size_5_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_8"  value="<?php echo get_option('bcard_size_5_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_5_color_3_cost_9"  value="<?php echo get_option('bcard_size_5_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+<h1 class='title'>BUSINESS CARDS | 14 pt. Premium Uncoated Cover</h1>
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_6_color_1_cost_1"  value="<?php echo get_option('bcard_size_6_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_6_color_1_cost_2"  value="<?php echo get_option('bcard_size_6_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_3"  value="<?php echo get_option('bcard_size_6_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_4"  value="<?php echo get_option('bcard_size_6_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_5"  value="<?php echo get_option('bcard_size_6_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_6"  value="<?php echo get_option('bcard_size_6_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_7"  value="<?php echo get_option('bcard_size_6_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_8"  value="<?php echo get_option('bcard_size_6_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_6_color_1_cost_9"  value="<?php echo get_option('bcard_size_6_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_6_color_2_cost_1"  value="<?php echo get_option('bcard_size_6_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_6_color_2_cost_2"  value="<?php echo get_option('bcard_size_6_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_3"  value="<?php echo get_option('bcard_size_6_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_4"  value="<?php echo get_option('bcard_size_6_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_5"  value="<?php echo get_option('bcard_size_6_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_6"  value="<?php echo get_option('bcard_size_6_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_7"  value="<?php echo get_option('bcard_size_6_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_8"  value="<?php echo get_option('bcard_size_6_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_6_color_2_cost_9"  value="<?php echo get_option('bcard_size_6_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_6_color_3_cost_1"  value="<?php echo get_option('bcard_size_6_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_6_color_3_cost_2"  value="<?php echo get_option('bcard_size_6_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_3"  value="<?php echo get_option('bcard_size_6_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_4"  value="<?php echo get_option('bcard_size_6_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_5"  value="<?php echo get_option('bcard_size_6_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_6"  value="<?php echo get_option('bcard_size_6_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_7"  value="<?php echo get_option('bcard_size_6_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_8"  value="<?php echo get_option('bcard_size_6_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_6_color_3_cost_9"  value="<?php echo get_option('bcard_size_6_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_7_color_1_cost_1"  value="<?php echo get_option('bcard_size_7_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_7_color_1_cost_2"  value="<?php echo get_option('bcard_size_7_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_3"  value="<?php echo get_option('bcard_size_7_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_4"  value="<?php echo get_option('bcard_size_7_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_5"  value="<?php echo get_option('bcard_size_7_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_6"  value="<?php echo get_option('bcard_size_7_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_7"  value="<?php echo get_option('bcard_size_7_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_8"  value="<?php echo get_option('bcard_size_7_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_7_color_1_cost_9"  value="<?php echo get_option('bcard_size_7_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_7_color_2_cost_1"  value="<?php echo get_option('bcard_size_7_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_7_color_2_cost_2"  value="<?php echo get_option('bcard_size_7_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_3"  value="<?php echo get_option('bcard_size_7_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_4"  value="<?php echo get_option('bcard_size_7_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_5"  value="<?php echo get_option('bcard_size_7_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_6"  value="<?php echo get_option('bcard_size_7_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_7"  value="<?php echo get_option('bcard_size_7_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_8"  value="<?php echo get_option('bcard_size_7_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_7_color_2_cost_9"  value="<?php echo get_option('bcard_size_7_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_7_color_3_cost_1"  value="<?php echo get_option('bcard_size_7_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_7_color_3_cost_2"  value="<?php echo get_option('bcard_size_7_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_3"  value="<?php echo get_option('bcard_size_7_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_4"  value="<?php echo get_option('bcard_size_7_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_5"  value="<?php echo get_option('bcard_size_7_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_6"  value="<?php echo get_option('bcard_size_7_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_7"  value="<?php echo get_option('bcard_size_7_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_8"  value="<?php echo get_option('bcard_size_7_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_7_color_3_cost_9"  value="<?php echo get_option('bcard_size_7_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_8_color_1_cost_1"  value="<?php echo get_option('bcard_size_8_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_8_color_1_cost_2"  value="<?php echo get_option('bcard_size_8_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_3"  value="<?php echo get_option('bcard_size_8_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_4"  value="<?php echo get_option('bcard_size_8_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_5"  value="<?php echo get_option('bcard_size_8_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_6"  value="<?php echo get_option('bcard_size_8_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_7"  value="<?php echo get_option('bcard_size_8_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_8"  value="<?php echo get_option('bcard_size_8_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_8_color_1_cost_9"  value="<?php echo get_option('bcard_size_8_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_8_color_2_cost_1"  value="<?php echo get_option('bcard_size_8_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_8_color_2_cost_2"  value="<?php echo get_option('bcard_size_8_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_3"  value="<?php echo get_option('bcard_size_8_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_4"  value="<?php echo get_option('bcard_size_8_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_5"  value="<?php echo get_option('bcard_size_8_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_6"  value="<?php echo get_option('bcard_size_8_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_7"  value="<?php echo get_option('bcard_size_8_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_8"  value="<?php echo get_option('bcard_size_8_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_8_color_2_cost_9"  value="<?php echo get_option('bcard_size_8_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_8_color_3_cost_1"  value="<?php echo get_option('bcard_size_8_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_8_color_3_cost_2"  value="<?php echo get_option('bcard_size_8_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_3"  value="<?php echo get_option('bcard_size_8_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_4"  value="<?php echo get_option('bcard_size_8_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_5"  value="<?php echo get_option('bcard_size_8_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_6"  value="<?php echo get_option('bcard_size_8_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_7"  value="<?php echo get_option('bcard_size_8_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_8"  value="<?php echo get_option('bcard_size_8_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_8_color_3_cost_9"  value="<?php echo get_option('bcard_size_8_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_9_color_1_cost_1"  value="<?php echo get_option('bcard_size_9_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_9_color_1_cost_2"  value="<?php echo get_option('bcard_size_9_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_3"  value="<?php echo get_option('bcard_size_9_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_4"  value="<?php echo get_option('bcard_size_9_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_5"  value="<?php echo get_option('bcard_size_9_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_6"  value="<?php echo get_option('bcard_size_9_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_7"  value="<?php echo get_option('bcard_size_9_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_8"  value="<?php echo get_option('bcard_size_9_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_9_color_1_cost_9"  value="<?php echo get_option('bcard_size_9_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_9_color_2_cost_1"  value="<?php echo get_option('bcard_size_9_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_9_color_2_cost_2"  value="<?php echo get_option('bcard_size_9_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_3"  value="<?php echo get_option('bcard_size_9_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_4"  value="<?php echo get_option('bcard_size_9_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_5"  value="<?php echo get_option('bcard_size_9_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_6"  value="<?php echo get_option('bcard_size_9_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_7"  value="<?php echo get_option('bcard_size_9_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_8"  value="<?php echo get_option('bcard_size_9_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_9_color_2_cost_9"  value="<?php echo get_option('bcard_size_9_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_9_color_3_cost_1"  value="<?php echo get_option('bcard_size_9_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_9_color_3_cost_2"  value="<?php echo get_option('bcard_size_9_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_3"  value="<?php echo get_option('bcard_size_9_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_4"  value="<?php echo get_option('bcard_size_9_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_5"  value="<?php echo get_option('bcard_size_9_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_6"  value="<?php echo get_option('bcard_size_9_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_7"  value="<?php echo get_option('bcard_size_9_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_8"  value="<?php echo get_option('bcard_size_9_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_9_color_3_cost_9"  value="<?php echo get_option('bcard_size_9_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_10_color_1_cost_1"  value="<?php echo get_option('bcard_size_10_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_10_color_1_cost_2"  value="<?php echo get_option('bcard_size_10_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_3"  value="<?php echo get_option('bcard_size_10_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_4"  value="<?php echo get_option('bcard_size_10_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_5"  value="<?php echo get_option('bcard_size_10_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_6"  value="<?php echo get_option('bcard_size_10_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_7"  value="<?php echo get_option('bcard_size_10_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_8"  value="<?php echo get_option('bcard_size_10_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_10_color_1_cost_9"  value="<?php echo get_option('bcard_size_10_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_10_color_2_cost_1"  value="<?php echo get_option('bcard_size_10_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_10_color_2_cost_2"  value="<?php echo get_option('bcard_size_10_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_3"  value="<?php echo get_option('bcard_size_10_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_4"  value="<?php echo get_option('bcard_size_10_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_5"  value="<?php echo get_option('bcard_size_10_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_6"  value="<?php echo get_option('bcard_size_10_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_7"  value="<?php echo get_option('bcard_size_10_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_8"  value="<?php echo get_option('bcard_size_10_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_10_color_2_cost_9"  value="<?php echo get_option('bcard_size_10_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_10_color_3_cost_1"  value="<?php echo get_option('bcard_size_10_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_10_color_3_cost_2"  value="<?php echo get_option('bcard_size_10_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_3"  value="<?php echo get_option('bcard_size_10_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_4"  value="<?php echo get_option('bcard_size_10_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_5"  value="<?php echo get_option('bcard_size_10_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_6"  value="<?php echo get_option('bcard_size_10_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_7"  value="<?php echo get_option('bcard_size_10_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_8"  value="<?php echo get_option('bcard_size_10_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_10_color_3_cost_9"  value="<?php echo get_option('bcard_size_10_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | 16 pt. Dull Cover with Matte Finish
+
+
+
+</h1>
+
+
+
+
+
+
+
+
+
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_11_color_1_cost_1"  value="<?php echo get_option('bcard_size_11_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_11_color_1_cost_2"  value="<?php echo get_option('bcard_size_11_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_3"  value="<?php echo get_option('bcard_size_11_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_4"  value="<?php echo get_option('bcard_size_11_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_5"  value="<?php echo get_option('bcard_size_11_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_6"  value="<?php echo get_option('bcard_size_11_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_7"  value="<?php echo get_option('bcard_size_11_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_8"  value="<?php echo get_option('bcard_size_11_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_11_color_1_cost_9"  value="<?php echo get_option('bcard_size_11_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_11_color_2_cost_1"  value="<?php echo get_option('bcard_size_11_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_11_color_2_cost_2"  value="<?php echo get_option('bcard_size_11_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_3"  value="<?php echo get_option('bcard_size_11_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_4"  value="<?php echo get_option('bcard_size_11_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_5"  value="<?php echo get_option('bcard_size_11_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_6"  value="<?php echo get_option('bcard_size_11_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_7"  value="<?php echo get_option('bcard_size_11_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_8"  value="<?php echo get_option('bcard_size_11_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_11_color_2_cost_9"  value="<?php echo get_option('bcard_size_11_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_11_color_3_cost_1"  value="<?php echo get_option('bcard_size_11_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_11_color_3_cost_2"  value="<?php echo get_option('bcard_size_11_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_3"  value="<?php echo get_option('bcard_size_11_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_4"  value="<?php echo get_option('bcard_size_11_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_5"  value="<?php echo get_option('bcard_size_11_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_6"  value="<?php echo get_option('bcard_size_11_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_7"  value="<?php echo get_option('bcard_size_11_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_8"  value="<?php echo get_option('bcard_size_11_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_11_color_3_cost_9"  value="<?php echo get_option('bcard_size_11_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_12_color_1_cost_1"  value="<?php echo get_option('bcard_size_12_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_12_color_1_cost_2"  value="<?php echo get_option('bcard_size_12_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_3"  value="<?php echo get_option('bcard_size_12_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_4"  value="<?php echo get_option('bcard_size_12_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_5"  value="<?php echo get_option('bcard_size_12_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_6"  value="<?php echo get_option('bcard_size_12_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_7"  value="<?php echo get_option('bcard_size_12_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_8"  value="<?php echo get_option('bcard_size_12_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_12_color_1_cost_9"  value="<?php echo get_option('bcard_size_12_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_12_color_2_cost_1"  value="<?php echo get_option('bcard_size_12_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_12_color_2_cost_2"  value="<?php echo get_option('bcard_size_12_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_3"  value="<?php echo get_option('bcard_size_12_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_4"  value="<?php echo get_option('bcard_size_12_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_5"  value="<?php echo get_option('bcard_size_12_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_6"  value="<?php echo get_option('bcard_size_12_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_7"  value="<?php echo get_option('bcard_size_12_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_8"  value="<?php echo get_option('bcard_size_12_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_12_color_2_cost_9"  value="<?php echo get_option('bcard_size_12_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_12_color_3_cost_1"  value="<?php echo get_option('bcard_size_12_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_12_color_3_cost_2"  value="<?php echo get_option('bcard_size_12_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_3"  value="<?php echo get_option('bcard_size_12_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_4"  value="<?php echo get_option('bcard_size_12_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_5"  value="<?php echo get_option('bcard_size_12_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_6"  value="<?php echo get_option('bcard_size_12_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_7"  value="<?php echo get_option('bcard_size_12_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_8"  value="<?php echo get_option('bcard_size_12_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_12_color_3_cost_9"  value="<?php echo get_option('bcard_size_12_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_13_color_1_cost_1"  value="<?php echo get_option('bcard_size_13_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_13_color_1_cost_2"  value="<?php echo get_option('bcard_size_13_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_3"  value="<?php echo get_option('bcard_size_13_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_4"  value="<?php echo get_option('bcard_size_13_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_5"  value="<?php echo get_option('bcard_size_13_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_6"  value="<?php echo get_option('bcard_size_13_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_7"  value="<?php echo get_option('bcard_size_13_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_8"  value="<?php echo get_option('bcard_size_13_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_13_color_1_cost_9"  value="<?php echo get_option('bcard_size_13_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_13_color_2_cost_1"  value="<?php echo get_option('bcard_size_13_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_13_color_2_cost_2"  value="<?php echo get_option('bcard_size_13_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_3"  value="<?php echo get_option('bcard_size_13_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_4"  value="<?php echo get_option('bcard_size_13_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_5"  value="<?php echo get_option('bcard_size_13_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_6"  value="<?php echo get_option('bcard_size_13_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_7"  value="<?php echo get_option('bcard_size_13_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_8"  value="<?php echo get_option('bcard_size_13_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_13_color_2_cost_9"  value="<?php echo get_option('bcard_size_13_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_13_color_3_cost_1"  value="<?php echo get_option('bcard_size_13_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_13_color_3_cost_2"  value="<?php echo get_option('bcard_size_13_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_3"  value="<?php echo get_option('bcard_size_13_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_4"  value="<?php echo get_option('bcard_size_13_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_5"  value="<?php echo get_option('bcard_size_13_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_6"  value="<?php echo get_option('bcard_size_13_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_7"  value="<?php echo get_option('bcard_size_13_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_8"  value="<?php echo get_option('bcard_size_13_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_13_color_3_cost_9"  value="<?php echo get_option('bcard_size_13_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_14_color_1_cost_1"  value="<?php echo get_option('bcard_size_14_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_14_color_1_cost_2"  value="<?php echo get_option('bcard_size_14_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_3"  value="<?php echo get_option('bcard_size_14_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_4"  value="<?php echo get_option('bcard_size_14_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_5"  value="<?php echo get_option('bcard_size_14_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_6"  value="<?php echo get_option('bcard_size_14_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_7"  value="<?php echo get_option('bcard_size_14_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_8"  value="<?php echo get_option('bcard_size_14_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_14_color_1_cost_9"  value="<?php echo get_option('bcard_size_14_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard </td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_14_color_2_cost_1"  value="<?php echo get_option('bcard_size_14_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_14_color_2_cost_2"  value="<?php echo get_option('bcard_size_14_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_3"  value="<?php echo get_option('bcard_size_14_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_4"  value="<?php echo get_option('bcard_size_14_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_5"  value="<?php echo get_option('bcard_size_14_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_6"  value="<?php echo get_option('bcard_size_14_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_7"  value="<?php echo get_option('bcard_size_14_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_8"  value="<?php echo get_option('bcard_size_14_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_14_color_2_cost_9"  value="<?php echo get_option('bcard_size_14_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard </td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_14_color_3_cost_1"  value="<?php echo get_option('bcard_size_14_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_14_color_3_cost_2"  value="<?php echo get_option('bcard_size_14_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_3"  value="<?php echo get_option('bcard_size_14_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_4"  value="<?php echo get_option('bcard_size_14_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_5"  value="<?php echo get_option('bcard_size_14_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_6"  value="<?php echo get_option('bcard_size_14_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_7"  value="<?php echo get_option('bcard_size_14_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_8"  value="<?php echo get_option('bcard_size_14_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_14_color_3_cost_9"  value="<?php echo get_option('bcard_size_14_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_15_color_1_cost_1"  value="<?php echo get_option('bcard_size_15_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_15_color_1_cost_2"  value="<?php echo get_option('bcard_size_15_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_3"  value="<?php echo get_option('bcard_size_15_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_4"  value="<?php echo get_option('bcard_size_15_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_5"  value="<?php echo get_option('bcard_size_15_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_6"  value="<?php echo get_option('bcard_size_15_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_7"  value="<?php echo get_option('bcard_size_15_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_8"  value="<?php echo get_option('bcard_size_15_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_15_color_1_cost_9"  value="<?php echo get_option('bcard_size_15_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard</td><td>Full Color Front, Grayscale Back</td><td><input type="text" name="bcard_size_15_color_2_cost_1"  value="<?php echo get_option('bcard_size_15_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_15_color_2_cost_2"  value="<?php echo get_option('bcard_size_15_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_3"  value="<?php echo get_option('bcard_size_15_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_4"  value="<?php echo get_option('bcard_size_15_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_5"  value="<?php echo get_option('bcard_size_15_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_6"  value="<?php echo get_option('bcard_size_15_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_7"  value="<?php echo get_option('bcard_size_15_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_8"  value="<?php echo get_option('bcard_size_15_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_15_color_2_cost_9"  value="<?php echo get_option('bcard_size_15_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European
+Standard </td><td>Full Color Both Sides</td><td><input type="text" name="bcard_size_15_color_3_cost_1"  value="<?php echo get_option('bcard_size_15_color_3_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_15_color_3_cost_2"  value="<?php echo get_option('bcard_size_15_color_3_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_3"  value="<?php echo get_option('bcard_size_15_color_3_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_4"  value="<?php echo get_option('bcard_size_15_color_3_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_5"  value="<?php echo get_option('bcard_size_15_color_3_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_6"  value="<?php echo get_option('bcard_size_15_color_3_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_7"  value="<?php echo get_option('bcard_size_15_color_3_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_8"  value="<?php echo get_option('bcard_size_15_color_3_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_15_color_3_cost_9"  value="<?php echo get_option('bcard_size_15_color_3_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | 24 pt. Trifecta Green Triple-Layered - Velvet Finish
+
+
+
+
+</h1>
+
+
+
+
+
+
+
+
+
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_16_color_1_cost_1"  value="<?php echo get_option('bcard_size_16_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_16_color_1_cost_2"  value="<?php echo get_option('bcard_size_16_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_3"  value="<?php echo get_option('bcard_size_16_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_4"  value="<?php echo get_option('bcard_size_16_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_5"  value="<?php echo get_option('bcard_size_16_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_6"  value="<?php echo get_option('bcard_size_16_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_7"  value="<?php echo get_option('bcard_size_16_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_8"  value="<?php echo get_option('bcard_size_16_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_16_color_1_cost_9"  value="<?php echo get_option('bcard_size_16_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_16_color_2_cost_1"  value="<?php echo get_option('bcard_size_16_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_16_color_2_cost_2"  value="<?php echo get_option('bcard_size_16_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_3"  value="<?php echo get_option('bcard_size_16_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_4"  value="<?php echo get_option('bcard_size_16_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_5"  value="<?php echo get_option('bcard_size_16_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_6"  value="<?php echo get_option('bcard_size_16_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_7"  value="<?php echo get_option('bcard_size_16_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_8"  value="<?php echo get_option('bcard_size_16_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_16_color_2_cost_9"  value="<?php echo get_option('bcard_size_16_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_17_color_1_cost_1"  value="<?php echo get_option('bcard_size_17_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_17_color_1_cost_2"  value="<?php echo get_option('bcard_size_17_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_3"  value="<?php echo get_option('bcard_size_17_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_4"  value="<?php echo get_option('bcard_size_17_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_5"  value="<?php echo get_option('bcard_size_17_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_6"  value="<?php echo get_option('bcard_size_17_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_7"  value="<?php echo get_option('bcard_size_17_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_8"  value="<?php echo get_option('bcard_size_17_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_17_color_1_cost_9"  value="<?php echo get_option('bcard_size_17_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_17_color_2_cost_1"  value="<?php echo get_option('bcard_size_17_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_17_color_2_cost_2"  value="<?php echo get_option('bcard_size_17_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_3"  value="<?php echo get_option('bcard_size_17_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_4"  value="<?php echo get_option('bcard_size_17_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_5"  value="<?php echo get_option('bcard_size_17_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_6"  value="<?php echo get_option('bcard_size_17_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_7"  value="<?php echo get_option('bcard_size_17_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_8"  value="<?php echo get_option('bcard_size_17_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_17_color_2_cost_9"  value="<?php echo get_option('bcard_size_17_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_18_color_1_cost_1"  value="<?php echo get_option('bcard_size_18_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_18_color_1_cost_2"  value="<?php echo get_option('bcard_size_18_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_3"  value="<?php echo get_option('bcard_size_18_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_4"  value="<?php echo get_option('bcard_size_18_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_5"  value="<?php echo get_option('bcard_size_18_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_6"  value="<?php echo get_option('bcard_size_18_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_7"  value="<?php echo get_option('bcard_size_18_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_8"  value="<?php echo get_option('bcard_size_18_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_18_color_1_cost_9"  value="<?php echo get_option('bcard_size_18_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_18_color_2_cost_1"  value="<?php echo get_option('bcard_size_18_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_18_color_2_cost_2"  value="<?php echo get_option('bcard_size_18_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_3"  value="<?php echo get_option('bcard_size_18_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_4"  value="<?php echo get_option('bcard_size_18_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_5"  value="<?php echo get_option('bcard_size_18_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_6"  value="<?php echo get_option('bcard_size_18_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_7"  value="<?php echo get_option('bcard_size_18_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_8"  value="<?php echo get_option('bcard_size_18_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_18_color_2_cost_9"  value="<?php echo get_option('bcard_size_18_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_19_color_1_cost_1"  value="<?php echo get_option('bcard_size_19_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_19_color_1_cost_2"  value="<?php echo get_option('bcard_size_19_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_3"  value="<?php echo get_option('bcard_size_19_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_4"  value="<?php echo get_option('bcard_size_19_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_5"  value="<?php echo get_option('bcard_size_19_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_6"  value="<?php echo get_option('bcard_size_19_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_7"  value="<?php echo get_option('bcard_size_19_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_8"  value="<?php echo get_option('bcard_size_19_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_19_color_1_cost_9"  value="<?php echo get_option('bcard_size_19_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_19_color_2_cost_1"  value="<?php echo get_option('bcard_size_19_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_19_color_2_cost_2"  value="<?php echo get_option('bcard_size_19_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_3"  value="<?php echo get_option('bcard_size_19_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_4"  value="<?php echo get_option('bcard_size_19_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_5"  value="<?php echo get_option('bcard_size_19_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_6"  value="<?php echo get_option('bcard_size_19_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_7"  value="<?php echo get_option('bcard_size_19_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_8"  value="<?php echo get_option('bcard_size_19_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_19_color_2_cost_9"  value="<?php echo get_option('bcard_size_19_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_20_color_1_cost_1"  value="<?php echo get_option('bcard_size_20_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_20_color_1_cost_2"  value="<?php echo get_option('bcard_size_20_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_3"  value="<?php echo get_option('bcard_size_20_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_4"  value="<?php echo get_option('bcard_size_20_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_5"  value="<?php echo get_option('bcard_size_20_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_6"  value="<?php echo get_option('bcard_size_20_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_7"  value="<?php echo get_option('bcard_size_20_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_8"  value="<?php echo get_option('bcard_size_20_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_20_color_1_cost_9"  value="<?php echo get_option('bcard_size_20_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_20_color_2_cost_1"  value="<?php echo get_option('bcard_size_20_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_20_color_2_cost_2"  value="<?php echo get_option('bcard_size_20_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_3"  value="<?php echo get_option('bcard_size_20_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_4"  value="<?php echo get_option('bcard_size_20_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_5"  value="<?php echo get_option('bcard_size_20_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_6"  value="<?php echo get_option('bcard_size_20_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_7"  value="<?php echo get_option('bcard_size_20_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_8"  value="<?php echo get_option('bcard_size_20_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_20_color_2_cost_9"  value="<?php echo get_option('bcard_size_20_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | 35 pt. Trifecta Pearl Triple-Layered - Kanvas Texture
+
+</h1>
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_21_color_1_cost_1"  value="<?php echo get_option('bcard_size_21_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_21_color_1_cost_2"  value="<?php echo get_option('bcard_size_21_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_3"  value="<?php echo get_option('bcard_size_21_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_4"  value="<?php echo get_option('bcard_size_21_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_5"  value="<?php echo get_option('bcard_size_21_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_6"  value="<?php echo get_option('bcard_size_21_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_7"  value="<?php echo get_option('bcard_size_21_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_8"  value="<?php echo get_option('bcard_size_21_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_21_color_1_cost_9"  value="<?php echo get_option('bcard_size_21_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_21_color_2_cost_1"  value="<?php echo get_option('bcard_size_21_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_21_color_2_cost_2"  value="<?php echo get_option('bcard_size_21_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_3"  value="<?php echo get_option('bcard_size_21_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_4"  value="<?php echo get_option('bcard_size_21_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_5"  value="<?php echo get_option('bcard_size_21_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_6"  value="<?php echo get_option('bcard_size_21_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_7"  value="<?php echo get_option('bcard_size_21_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_8"  value="<?php echo get_option('bcard_size_21_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_21_color_2_cost_9"  value="<?php echo get_option('bcard_size_21_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_22_color_1_cost_1"  value="<?php echo get_option('bcard_size_22_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_22_color_1_cost_2"  value="<?php echo get_option('bcard_size_22_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_3"  value="<?php echo get_option('bcard_size_22_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_4"  value="<?php echo get_option('bcard_size_22_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_5"  value="<?php echo get_option('bcard_size_22_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_6"  value="<?php echo get_option('bcard_size_22_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_7"  value="<?php echo get_option('bcard_size_22_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_8"  value="<?php echo get_option('bcard_size_22_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_22_color_1_cost_9"  value="<?php echo get_option('bcard_size_22_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_22_color_2_cost_1"  value="<?php echo get_option('bcard_size_22_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_22_color_2_cost_2"  value="<?php echo get_option('bcard_size_22_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_3"  value="<?php echo get_option('bcard_size_22_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_4"  value="<?php echo get_option('bcard_size_22_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_5"  value="<?php echo get_option('bcard_size_22_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_6"  value="<?php echo get_option('bcard_size_22_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_7"  value="<?php echo get_option('bcard_size_22_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_8"  value="<?php echo get_option('bcard_size_22_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_22_color_2_cost_9"  value="<?php echo get_option('bcard_size_22_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_23_color_1_cost_1"  value="<?php echo get_option('bcard_size_23_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_23_color_1_cost_2"  value="<?php echo get_option('bcard_size_23_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_3"  value="<?php echo get_option('bcard_size_23_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_4"  value="<?php echo get_option('bcard_size_23_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_5"  value="<?php echo get_option('bcard_size_23_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_6"  value="<?php echo get_option('bcard_size_23_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_7"  value="<?php echo get_option('bcard_size_23_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_8"  value="<?php echo get_option('bcard_size_23_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_23_color_1_cost_9"  value="<?php echo get_option('bcard_size_23_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_23_color_2_cost_1"  value="<?php echo get_option('bcard_size_23_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_23_color_2_cost_2"  value="<?php echo get_option('bcard_size_23_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_3"  value="<?php echo get_option('bcard_size_23_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_4"  value="<?php echo get_option('bcard_size_23_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_5"  value="<?php echo get_option('bcard_size_23_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_6"  value="<?php echo get_option('bcard_size_23_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_7"  value="<?php echo get_option('bcard_size_23_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_8"  value="<?php echo get_option('bcard_size_23_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_23_color_2_cost_9"  value="<?php echo get_option('bcard_size_23_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_24_color_1_cost_1"  value="<?php echo get_option('bcard_size_24_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_24_color_1_cost_2"  value="<?php echo get_option('bcard_size_24_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_3"  value="<?php echo get_option('bcard_size_24_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_4"  value="<?php echo get_option('bcard_size_24_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_5"  value="<?php echo get_option('bcard_size_24_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_6"  value="<?php echo get_option('bcard_size_24_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_7"  value="<?php echo get_option('bcard_size_24_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_8"  value="<?php echo get_option('bcard_size_24_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_24_color_1_cost_9"  value="<?php echo get_option('bcard_size_24_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_24_color_2_cost_1"  value="<?php echo get_option('bcard_size_24_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_24_color_2_cost_2"  value="<?php echo get_option('bcard_size_24_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_3"  value="<?php echo get_option('bcard_size_24_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_4"  value="<?php echo get_option('bcard_size_24_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_5"  value="<?php echo get_option('bcard_size_24_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_6"  value="<?php echo get_option('bcard_size_24_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_7"  value="<?php echo get_option('bcard_size_24_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_8"  value="<?php echo get_option('bcard_size_24_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_24_color_2_cost_9"  value="<?php echo get_option('bcard_size_24_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_25_color_1_cost_1"  value="<?php echo get_option('bcard_size_25_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_25_color_1_cost_2"  value="<?php echo get_option('bcard_size_25_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_3"  value="<?php echo get_option('bcard_size_25_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_4"  value="<?php echo get_option('bcard_size_25_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_5"  value="<?php echo get_option('bcard_size_25_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_6"  value="<?php echo get_option('bcard_size_25_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_7"  value="<?php echo get_option('bcard_size_25_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_8"  value="<?php echo get_option('bcard_size_25_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_25_color_1_cost_9"  value="<?php echo get_option('bcard_size_25_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_25_color_2_cost_1"  value="<?php echo get_option('bcard_size_25_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_25_color_2_cost_2"  value="<?php echo get_option('bcard_size_25_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_3"  value="<?php echo get_option('bcard_size_25_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_4"  value="<?php echo get_option('bcard_size_25_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_5"  value="<?php echo get_option('bcard_size_25_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_6"  value="<?php echo get_option('bcard_size_25_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_7"  value="<?php echo get_option('bcard_size_25_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_8"  value="<?php echo get_option('bcard_size_25_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_25_color_2_cost_9"  value="<?php echo get_option('bcard_size_25_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | 38 pt. Trifecta Black Triple-Layered - Velvet Finish
+
+</h1>
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_26_color_1_cost_1"  value="<?php echo get_option('bcard_size_26_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_26_color_1_cost_2"  value="<?php echo get_option('bcard_size_26_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_3"  value="<?php echo get_option('bcard_size_26_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_4"  value="<?php echo get_option('bcard_size_26_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_5"  value="<?php echo get_option('bcard_size_26_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_6"  value="<?php echo get_option('bcard_size_26_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_7"  value="<?php echo get_option('bcard_size_26_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_8"  value="<?php echo get_option('bcard_size_26_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_26_color_1_cost_9"  value="<?php echo get_option('bcard_size_26_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal </td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_26_color_2_cost_1"  value="<?php echo get_option('bcard_size_26_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_26_color_2_cost_2"  value="<?php echo get_option('bcard_size_26_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_3"  value="<?php echo get_option('bcard_size_26_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_4"  value="<?php echo get_option('bcard_size_26_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_5"  value="<?php echo get_option('bcard_size_26_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_6"  value="<?php echo get_option('bcard_size_26_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_7"  value="<?php echo get_option('bcard_size_26_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_8"  value="<?php echo get_option('bcard_size_26_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_26_color_2_cost_9"  value="<?php echo get_option('bcard_size_26_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_27_color_1_cost_1"  value="<?php echo get_option('bcard_size_27_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_27_color_1_cost_2"  value="<?php echo get_option('bcard_size_27_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_3"  value="<?php echo get_option('bcard_size_27_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_4"  value="<?php echo get_option('bcard_size_27_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_5"  value="<?php echo get_option('bcard_size_27_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_6"  value="<?php echo get_option('bcard_size_27_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_7"  value="<?php echo get_option('bcard_size_27_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_8"  value="<?php echo get_option('bcard_size_27_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_27_color_1_cost_9"  value="<?php echo get_option('bcard_size_27_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_27_color_2_cost_1"  value="<?php echo get_option('bcard_size_27_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_27_color_2_cost_2"  value="<?php echo get_option('bcard_size_27_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_3"  value="<?php echo get_option('bcard_size_27_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_4"  value="<?php echo get_option('bcard_size_27_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_5"  value="<?php echo get_option('bcard_size_27_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_6"  value="<?php echo get_option('bcard_size_27_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_7"  value="<?php echo get_option('bcard_size_27_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_8"  value="<?php echo get_option('bcard_size_27_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_27_color_2_cost_9"  value="<?php echo get_option('bcard_size_27_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_28_color_1_cost_1"  value="<?php echo get_option('bcard_size_28_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_28_color_1_cost_2"  value="<?php echo get_option('bcard_size_28_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_3"  value="<?php echo get_option('bcard_size_28_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_4"  value="<?php echo get_option('bcard_size_28_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_5"  value="<?php echo get_option('bcard_size_28_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_6"  value="<?php echo get_option('bcard_size_28_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_7"  value="<?php echo get_option('bcard_size_28_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_8"  value="<?php echo get_option('bcard_size_28_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_28_color_1_cost_9"  value="<?php echo get_option('bcard_size_28_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_28_color_2_cost_1"  value="<?php echo get_option('bcard_size_28_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_28_color_2_cost_2"  value="<?php echo get_option('bcard_size_28_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_3"  value="<?php echo get_option('bcard_size_28_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_4"  value="<?php echo get_option('bcard_size_28_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_5"  value="<?php echo get_option('bcard_size_28_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_6"  value="<?php echo get_option('bcard_size_28_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_7"  value="<?php echo get_option('bcard_size_28_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_8"  value="<?php echo get_option('bcard_size_28_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_28_color_2_cost_9"  value="<?php echo get_option('bcard_size_28_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_29_color_1_cost_1"  value="<?php echo get_option('bcard_size_29_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_29_color_1_cost_2"  value="<?php echo get_option('bcard_size_29_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_3"  value="<?php echo get_option('bcard_size_29_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_4"  value="<?php echo get_option('bcard_size_29_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_5"  value="<?php echo get_option('bcard_size_29_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_6"  value="<?php echo get_option('bcard_size_29_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_7"  value="<?php echo get_option('bcard_size_29_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_8"  value="<?php echo get_option('bcard_size_29_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_29_color_1_cost_9"  value="<?php echo get_option('bcard_size_29_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_29_color_2_cost_1"  value="<?php echo get_option('bcard_size_29_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_29_color_2_cost_2"  value="<?php echo get_option('bcard_size_29_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_3"  value="<?php echo get_option('bcard_size_29_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_4"  value="<?php echo get_option('bcard_size_29_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_5"  value="<?php echo get_option('bcard_size_29_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_6"  value="<?php echo get_option('bcard_size_29_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_7"  value="<?php echo get_option('bcard_size_29_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_8"  value="<?php echo get_option('bcard_size_29_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_29_color_2_cost_9"  value="<?php echo get_option('bcard_size_29_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_30_color_1_cost_1"  value="<?php echo get_option('bcard_size_30_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_30_color_1_cost_2"  value="<?php echo get_option('bcard_size_30_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_3"  value="<?php echo get_option('bcard_size_30_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_4"  value="<?php echo get_option('bcard_size_30_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_5"  value="<?php echo get_option('bcard_size_30_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_6"  value="<?php echo get_option('bcard_size_30_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_7"  value="<?php echo get_option('bcard_size_30_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_8"  value="<?php echo get_option('bcard_size_30_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_30_color_1_cost_9"  value="<?php echo get_option('bcard_size_30_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_30_color_2_cost_1"  value="<?php echo get_option('bcard_size_30_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_30_color_2_cost_2"  value="<?php echo get_option('bcard_size_30_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_3"  value="<?php echo get_option('bcard_size_30_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_4"  value="<?php echo get_option('bcard_size_30_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_5"  value="<?php echo get_option('bcard_size_30_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_6"  value="<?php echo get_option('bcard_size_30_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_7"  value="<?php echo get_option('bcard_size_30_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_8"  value="<?php echo get_option('bcard_size_30_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_30_color_2_cost_9"  value="<?php echo get_option('bcard_size_30_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | 38 pt. Trifecta Red Triple-Layered - Velvet Finish
+
+</h1>
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_31_color_1_cost_1"  value="<?php echo get_option('bcard_size_31_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_31_color_1_cost_2"  value="<?php echo get_option('bcard_size_31_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_3"  value="<?php echo get_option('bcard_size_31_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_4"  value="<?php echo get_option('bcard_size_31_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_5"  value="<?php echo get_option('bcard_size_31_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_6"  value="<?php echo get_option('bcard_size_31_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_7"  value="<?php echo get_option('bcard_size_31_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_8"  value="<?php echo get_option('bcard_size_31_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_31_color_1_cost_9"  value="<?php echo get_option('bcard_size_31_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_31_color_2_cost_1"  value="<?php echo get_option('bcard_size_31_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_31_color_2_cost_2"  value="<?php echo get_option('bcard_size_31_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_3"  value="<?php echo get_option('bcard_size_31_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_4"  value="<?php echo get_option('bcard_size_31_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_5"  value="<?php echo get_option('bcard_size_31_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_6"  value="<?php echo get_option('bcard_size_31_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_7"  value="<?php echo get_option('bcard_size_31_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_8"  value="<?php echo get_option('bcard_size_31_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_31_color_2_cost_9"  value="<?php echo get_option('bcard_size_31_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_32_color_1_cost_1"  value="<?php echo get_option('bcard_size_32_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_32_color_1_cost_2"  value="<?php echo get_option('bcard_size_32_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_3"  value="<?php echo get_option('bcard_size_32_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_4"  value="<?php echo get_option('bcard_size_32_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_5"  value="<?php echo get_option('bcard_size_32_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_6"  value="<?php echo get_option('bcard_size_32_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_7"  value="<?php echo get_option('bcard_size_32_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_8"  value="<?php echo get_option('bcard_size_32_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_32_color_1_cost_9"  value="<?php echo get_option('bcard_size_32_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_32_color_2_cost_1"  value="<?php echo get_option('bcard_size_32_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_32_color_2_cost_2"  value="<?php echo get_option('bcard_size_32_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_3"  value="<?php echo get_option('bcard_size_32_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_4"  value="<?php echo get_option('bcard_size_32_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_5"  value="<?php echo get_option('bcard_size_32_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_6"  value="<?php echo get_option('bcard_size_32_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_7"  value="<?php echo get_option('bcard_size_32_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_8"  value="<?php echo get_option('bcard_size_32_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_32_color_2_cost_9"  value="<?php echo get_option('bcard_size_32_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_33_color_1_cost_1"  value="<?php echo get_option('bcard_size_33_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_33_color_1_cost_2"  value="<?php echo get_option('bcard_size_33_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_3"  value="<?php echo get_option('bcard_size_33_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_4"  value="<?php echo get_option('bcard_size_33_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_5"  value="<?php echo get_option('bcard_size_33_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_6"  value="<?php echo get_option('bcard_size_33_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_7"  value="<?php echo get_option('bcard_size_33_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_8"  value="<?php echo get_option('bcard_size_33_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_33_color_1_cost_9"  value="<?php echo get_option('bcard_size_33_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_33_color_2_cost_1"  value="<?php echo get_option('bcard_size_33_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_33_color_2_cost_2"  value="<?php echo get_option('bcard_size_33_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_3"  value="<?php echo get_option('bcard_size_33_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_4"  value="<?php echo get_option('bcard_size_33_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_5"  value="<?php echo get_option('bcard_size_33_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_6"  value="<?php echo get_option('bcard_size_33_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_7"  value="<?php echo get_option('bcard_size_33_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_8"  value="<?php echo get_option('bcard_size_33_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_33_color_2_cost_9"  value="<?php echo get_option('bcard_size_33_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_34_color_1_cost_1"  value="<?php echo get_option('bcard_size_34_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_34_color_1_cost_2"  value="<?php echo get_option('bcard_size_34_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_3"  value="<?php echo get_option('bcard_size_34_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_4"  value="<?php echo get_option('bcard_size_34_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_5"  value="<?php echo get_option('bcard_size_34_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_6"  value="<?php echo get_option('bcard_size_34_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_7"  value="<?php echo get_option('bcard_size_34_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_8"  value="<?php echo get_option('bcard_size_34_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_34_color_1_cost_9"  value="<?php echo get_option('bcard_size_34_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_34_color_2_cost_1"  value="<?php echo get_option('bcard_size_34_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_34_color_2_cost_2"  value="<?php echo get_option('bcard_size_34_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_3"  value="<?php echo get_option('bcard_size_34_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_4"  value="<?php echo get_option('bcard_size_34_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_5"  value="<?php echo get_option('bcard_size_34_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_6"  value="<?php echo get_option('bcard_size_34_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_7"  value="<?php echo get_option('bcard_size_34_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_8"  value="<?php echo get_option('bcard_size_34_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_34_color_2_cost_9"  value="<?php echo get_option('bcard_size_34_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_35_color_1_cost_1"  value="<?php echo get_option('bcard_size_35_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_35_color_1_cost_2"  value="<?php echo get_option('bcard_size_35_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_3"  value="<?php echo get_option('bcard_size_35_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_4"  value="<?php echo get_option('bcard_size_35_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_5"  value="<?php echo get_option('bcard_size_35_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_6"  value="<?php echo get_option('bcard_size_35_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_7"  value="<?php echo get_option('bcard_size_35_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_8"  value="<?php echo get_option('bcard_size_35_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_35_color_1_cost_9"  value="<?php echo get_option('bcard_size_35_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_35_color_2_cost_1"  value="<?php echo get_option('bcard_size_35_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_35_color_2_cost_2"  value="<?php echo get_option('bcard_size_35_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_3"  value="<?php echo get_option('bcard_size_35_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_4"  value="<?php echo get_option('bcard_size_35_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_5"  value="<?php echo get_option('bcard_size_35_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_6"  value="<?php echo get_option('bcard_size_35_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_7"  value="<?php echo get_option('bcard_size_35_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_8"  value="<?php echo get_option('bcard_size_35_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_35_color_2_cost_9"  value="<?php echo get_option('bcard_size_35_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+
+
+
+<p><h1 class='title'>Business Cards | Recycled 100 lb. Dull Cover with Matte Finish
+
+</h1>
+<table class='table table-striped'>
+
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Size</td><td width="100%">Color</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_36_color_1_cost_1"  value="<?php echo get_option('bcard_size_36_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_36_color_1_cost_2"  value="<?php echo get_option('bcard_size_36_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_3"  value="<?php echo get_option('bcard_size_36_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_4"  value="<?php echo get_option('bcard_size_36_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_5"  value="<?php echo get_option('bcard_size_36_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_6"  value="<?php echo get_option('bcard_size_36_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_7"  value="<?php echo get_option('bcard_size_36_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_8"  value="<?php echo get_option('bcard_size_36_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_36_color_1_cost_9"  value="<?php echo get_option('bcard_size_36_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_36_color_2_cost_1"  value="<?php echo get_option('bcard_size_36_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_36_color_2_cost_2"  value="<?php echo get_option('bcard_size_36_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_3"  value="<?php echo get_option('bcard_size_36_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_4"  value="<?php echo get_option('bcard_size_36_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_5"  value="<?php echo get_option('bcard_size_36_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_6"  value="<?php echo get_option('bcard_size_36_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_7"  value="<?php echo get_option('bcard_size_36_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_8"  value="<?php echo get_option('bcard_size_36_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_36_color_2_cost_9"  value="<?php echo get_option('bcard_size_36_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_37_color_1_cost_1"  value="<?php echo get_option('bcard_size_37_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_37_color_1_cost_2"  value="<?php echo get_option('bcard_size_37_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_3"  value="<?php echo get_option('bcard_size_37_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_4"  value="<?php echo get_option('bcard_size_37_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_5"  value="<?php echo get_option('bcard_size_37_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_6"  value="<?php echo get_option('bcard_size_37_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_7"  value="<?php echo get_option('bcard_size_37_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_8"  value="<?php echo get_option('bcard_size_37_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_37_color_1_cost_9"  value="<?php echo get_option('bcard_size_37_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>1.75" x 3.5" Horizontal Slim</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_37_color_2_cost_1"  value="<?php echo get_option('bcard_size_37_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_37_color_2_cost_2"  value="<?php echo get_option('bcard_size_37_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_3"  value="<?php echo get_option('bcard_size_37_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_4"  value="<?php echo get_option('bcard_size_37_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_5"  value="<?php echo get_option('bcard_size_37_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_6"  value="<?php echo get_option('bcard_size_37_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_7"  value="<?php echo get_option('bcard_size_37_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_8"  value="<?php echo get_option('bcard_size_37_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_37_color_2_cost_9"  value="<?php echo get_option('bcard_size_37_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_38_color_1_cost_1"  value="<?php echo get_option('bcard_size_38_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_38_color_1_cost_2"  value="<?php echo get_option('bcard_size_38_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_3"  value="<?php echo get_option('bcard_size_38_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_4"  value="<?php echo get_option('bcard_size_38_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_5"  value="<?php echo get_option('bcard_size_38_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_6"  value="<?php echo get_option('bcard_size_38_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_7"  value="<?php echo get_option('bcard_size_38_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_8"  value="<?php echo get_option('bcard_size_38_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_38_color_1_cost_9"  value="<?php echo get_option('bcard_size_38_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3" Horizontal</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_38_color_2_cost_1"  value="<?php echo get_option('bcard_size_38_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_38_color_2_cost_2"  value="<?php echo get_option('bcard_size_38_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_3"  value="<?php echo get_option('bcard_size_38_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_4"  value="<?php echo get_option('bcard_size_38_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_5"  value="<?php echo get_option('bcard_size_38_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_6"  value="<?php echo get_option('bcard_size_38_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_7"  value="<?php echo get_option('bcard_size_38_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_8"  value="<?php echo get_option('bcard_size_38_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_38_color_2_cost_9"  value="<?php echo get_option('bcard_size_38_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_39_color_1_cost_1"  value="<?php echo get_option('bcard_size_39_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_39_color_1_cost_2"  value="<?php echo get_option('bcard_size_39_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_3"  value="<?php echo get_option('bcard_size_39_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_4"  value="<?php echo get_option('bcard_size_39_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_5"  value="<?php echo get_option('bcard_size_39_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_6"  value="<?php echo get_option('bcard_size_39_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_7"  value="<?php echo get_option('bcard_size_39_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_8"  value="<?php echo get_option('bcard_size_39_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_39_color_1_cost_9"  value="<?php echo get_option('bcard_size_39_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2" x 3.5" Horizontal U.S. Standard</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_39_color_2_cost_1"  value="<?php echo get_option('bcard_size_39_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_39_color_2_cost_2"  value="<?php echo get_option('bcard_size_39_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_3"  value="<?php echo get_option('bcard_size_39_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_4"  value="<?php echo get_option('bcard_size_39_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_5"  value="<?php echo get_option('bcard_size_39_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_6"  value="<?php echo get_option('bcard_size_39_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_7"  value="<?php echo get_option('bcard_size_39_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_8"  value="<?php echo get_option('bcard_size_39_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_39_color_2_cost_9"  value="<?php echo get_option('bcard_size_39_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color Front, No Back</td><td><input type="text" name="bcard_size_40_color_1_cost_1"  value="<?php echo get_option('bcard_size_40_color_1_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_40_color_1_cost_2"  value="<?php echo get_option('bcard_size_40_color_1_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_3"  value="<?php echo get_option('bcard_size_40_color_1_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_4"  value="<?php echo get_option('bcard_size_40_color_1_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_5"  value="<?php echo get_option('bcard_size_40_color_1_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_6"  value="<?php echo get_option('bcard_size_40_color_1_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_7"  value="<?php echo get_option('bcard_size_40_color_1_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_8"  value="<?php echo get_option('bcard_size_40_color_1_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_40_color_1_cost_9"  value="<?php echo get_option('bcard_size_40_color_1_cost_9'); ?>"/></td>
+
+
+
+</tr>
+
+
+
+<tr>
+
+<td>2.17" x 3.35" Horizontal European</td><td>Full Color ,Both Sides</td><td><input type="text" name="bcard_size_40_color_2_cost_1"  value="<?php echo get_option('bcard_size_40_color_2_cost_1'); ?>" /></td><td><input type="text" name="bcard_size_40_color_2_cost_2"  value="<?php echo get_option('bcard_size_40_color_2_cost_2'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_3"  value="<?php echo get_option('bcard_size_40_color_2_cost_3'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_4"  value="<?php echo get_option('bcard_size_40_color_2_cost_4'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_5"  value="<?php echo get_option('bcard_size_40_color_2_cost_5'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_6"  value="<?php echo get_option('bcard_size_40_color_2_cost_6'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_7"  value="<?php echo get_option('bcard_size_40_color_2_cost_7'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_8"  value="<?php echo get_option('bcard_size_40_color_2_cost_8'); ?>"/></td><td><input type="text" name="bcard_size_40_color_2_cost_9"  value="<?php echo get_option('bcard_size_40_color_2_cost_9'); ?>"/></td>
+
+
+
+</tr>
+</table>
+
+<table class='table table-striped'>
+<h1>Round Corner & Rush Hour Price</h1>
+
+
+<tr style='text-align:center'>
+
+
+
+<td width="100%">Item Names</td><td>100</td><td>250</td><td>500</td><td>1,000</td><td>2,500</td><td>5,000</td><td>10,000</td><td>15,000</td><td>20,000</td>
+</tr>
+<tr style='text-align:center'><td>Round Corner</td><td><input type="text" name="bcard_round_corner_cost_1"  value="<?php echo get_option('bcard_round_corner_cost_1'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_2"  value="<?php echo get_option('bcard_round_corner_cost_2'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_3"  value="<?php echo get_option('bcard_round_corner_cost_3'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_4"  value="<?php echo get_option('bcard_round_corner_cost_4'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_5"  value="<?php echo get_option('bcard_round_corner_cost_5'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_6"  value="<?php echo get_option('bcard_round_corner_cost_6'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_7"  value="<?php echo get_option('bcard_round_corner_cost_7'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_8"  value="<?php echo get_option('bcard_round_corner_cost_8'); ?>" /></td><td><input type="text" name="bcard_round_corner_cost_9"  value="<?php echo get_option('bcard_round_corner_cost_9'); ?>" /></td></tr>
+<tr style='text-align:center'><td>Rush Hour</td><td><input type="text" name="bcard_rush_cost_1"  value="<?php echo get_option('bcard_rush_cost_1'); ?>" /></td><td><input type="text" name="bcard_rush_cost_2"  value="<?php echo get_option('bcard_rush_cost_2'); ?>" /></td><td><input type="text" name="bcard_rush_cost_3"  value="<?php echo get_option('bcard_rush_cost_3'); ?>" /></td><td><input type="text" name="bcard_rush_cost_4"  value="<?php echo get_option('bcard_rush_cost_4'); ?>" /></td><td><input type="text" name="bcard_rush_cost_5"  value="<?php echo get_option('bcard_rush_cost_5'); ?>" /></td><td><input type="text" name="bcard_bcard_rush_cost_6"  value="<?php echo get_option('bcard_bcard_rush_cost_6'); ?>" /></td><td><input type="text" name="bcard_bcard_rush_cost_7"  value="<?php echo get_option('bcard_rush_cost_7'); ?>" /></td><td><input type="text" name="bcard_rush_cost_8"  value="<?php echo get_option('bcard_rush_cost_8'); ?>" /></td><td><input type="text" name="bcard_rush_cost_9"  value="<?php echo get_option('bcard_rush_cost_9'); ?>" /></td></tr>
+</table>
+<p><input type="submit" name="Submit" value="Update" /></p>
+
+
+
+	<input type="hidden" name="action" value="update" />
+
+<input type="hidden" name="page_options" value="bcard_size_1_color_1_cost_1,bcard_size_1_color_1_cost_2,bcard_size_1_color_1_cost_3,bcard_size_1_color_1_cost_4,bcard_size_1_color_1_cost_5,bcard_size_1_color_1_cost_6,bcard_size_1_color_1_cost_7,bcard_size_1_color_1_cost_8,bcard_size_1_color_1_cost_9,bcard_size_1_color_2_cost_1,bcard_size_1_color_2_cost_2,bcard_size_1_color_2_cost_3,bcard_size_1_color_2_cost_4,bcard_size_1_color_2_cost_5,bcard_size_1_color_2_cost_6,bcard_size_1_color_2_cost_7,bcard_size_1_color_2_cost_8,bcard_size_1_color_2_cost_9,bcard_size_1_color_3_cost_1,bcard_size_1_color_3_cost_2,bcard_size_1_color_3_cost_3,bcard_size_1_color_3_cost_4,bcard_size_1_color_3_cost_5,bcard_size_1_color_3_cost_6,bcard_size_1_color_3_cost_7,bcard_size_1_color_3_cost_8,bcard_size_1_color_3_cost_9,bcard_size_2_color_1_cost_1,bcard_size_2_color_1_cost_2,bcard_size_2_color_1_cost_3,bcard_size_2_color_1_cost_4,bcard_size_2_color_1_cost_5,bcard_size_2_color_1_cost_6,bcard_size_2_color_1_cost_7,bcard_size_2_color_1_cost_8,bcard_size_2_color_1_cost_9,bcard_size_2_color_2_cost_1,bcard_size_2_color_2_cost_2,bcard_size_2_color_2_cost_3,bcard_size_2_color_2_cost_4,bcard_size_2_color_2_cost_5,bcard_size_2_color_2_cost_6,bcard_size_2_color_2_cost_7,bcard_size_2_color_2_cost_8,bcard_size_2_color_2_cost_9,bcard_size_2_color_3_cost_1,bcard_size_2_color_3_cost_2,bcard_size_2_color_3_cost_3,bcard_size_2_color_3_cost_4,bcard_size_2_color_3_cost_5,bcard_size_2_color_3_cost_6,bcard_size_2_color_3_cost_7,bcard_size_2_color_3_cost_8,bcard_size_2_color_3_cost_9,bcard_size_3_color_1_cost_1,bcard_size_3_color_1_cost_2,bcard_size_3_color_1_cost_3,bcard_size_3_color_1_cost_4,bcard_size_3_color_1_cost_5,bcard_size_3_color_1_cost_6,bcard_size_3_color_1_cost_7,bcard_size_3_color_1_cost_8,bcard_size_3_color_1_cost_9,bcard_size_3_color_2_cost_1,bcard_size_3_color_2_cost_2,bcard_size_3_color_2_cost_3,bcard_size_3_color_2_cost_4,bcard_size_3_color_2_cost_5,bcard_size_3_color_2_cost_6,bcard_size_3_color_2_cost_7,bcard_size_3_color_2_cost_8,bcard_size_3_color_2_cost_9,bcard_size_3_color_3_cost_1,bcard_size_3_color_3_cost_2,bcard_size_3_color_3_cost_3,bcard_size_3_color_3_cost_4,bcard_size_3_color_3_cost_5,bcard_size_3_color_3_cost_6,bcard_size_3_color_3_cost_7,bcard_size_3_color_3_cost_8,bcard_size_3_color_3_cost_9,bcard_size_4_color_1_cost_1,bcard_size_4_color_1_cost_2,bcard_size_4_color_1_cost_3,bcard_size_4_color_1_cost_4,bcard_size_4_color_1_cost_5,bcard_size_4_color_1_cost_6,bcard_size_4_color_1_cost_7,bcard_size_4_color_1_cost_8,bcard_size_4_color_1_cost_9,bcard_size_4_color_2_cost_1,bcard_size_4_color_2_cost_2,bcard_size_4_color_2_cost_3,bcard_size_4_color_2_cost_4,bcard_size_4_color_2_cost_5,bcard_size_4_color_2_cost_6,bcard_size_4_color_2_cost_7,bcard_size_4_color_2_cost_8,bcard_size_4_color_2_cost_9,bcard_size_4_color_3_cost_1,bcard_size_4_color_3_cost_2,bcard_size_4_color_3_cost_3,bcard_size_4_color_3_cost_4,bcard_size_4_color_3_cost_5,bcard_size_4_color_3_cost_6,bcard_size_4_color_3_cost_7,bcard_size_4_color_3_cost_8,bcard_size_4_color_3_cost_9,bcard_size_5_color_1_cost_1,bcard_size_5_color_1_cost_2,bcard_size_5_color_1_cost_3,bcard_size_5_color_1_cost_4,bcard_size_5_color_1_cost_5,bcard_size_5_color_1_cost_6,bcard_size_5_color_1_cost_7,bcard_size_5_color_1_cost_8,bcard_size_5_color_1_cost_9,bcard_size_5_color_2_cost_1,bcard_size_5_color_2_cost_2,bcard_size_5_color_2_cost_3,bcard_size_5_color_2_cost_4,bcard_size_5_color_2_cost_5,bcard_size_5_color_2_cost_6,bcard_size_5_color_2_cost_7,bcard_size_5_color_2_cost_8,bcard_size_5_color_2_cost_9,bcard_size_5_color_3_cost_1,bcard_size_5_color_3_cost_2,bcard_size_5_color_3_cost_3,bcard_size_5_color_3_cost_4,bcard_size_5_color_3_cost_5,bcard_size_5_color_3_cost_6,bcard_size_5_color_3_cost_7,bcard_size_5_color_3_cost_8,bcard_size_5_color_3_cost_9,bcard_size_6_color_1_cost_1,bcard_size_6_color_1_cost_2,bcard_size_6_color_1_cost_3,bcard_size_6_color_1_cost_4,bcard_size_6_color_1_cost_5,bcard_size_6_color_1_cost_6,bcard_size_6_color_1_cost_7,bcard_size_6_color_1_cost_8,bcard_size_6_color_1_cost_9,bcard_size_6_color_2_cost_1,bcard_size_6_color_2_cost_2,bcard_size_6_color_2_cost_3,bcard_size_6_color_2_cost_4,bcard_size_6_color_2_cost_5,bcard_size_6_color_2_cost_6,bcard_size_6_color_2_cost_7,bcard_size_6_color_2_cost_8,bcard_size_6_color_2_cost_9,bcard_size_6_color_3_cost_1,bcard_size_6_color_3_cost_2,bcard_size_6_color_3_cost_3,bcard_size_6_color_3_cost_4,bcard_size_6_color_3_cost_5,bcard_size_6_color_3_cost_6,bcard_size_6_color_3_cost_7,bcard_size_6_color_3_cost_8,bcard_size_6_color_3_cost_9,bcard_size_7_color_1_cost_1,bcard_size_7_color_1_cost_2,bcard_size_7_color_1_cost_3,bcard_size_7_color_1_cost_4,bcard_size_7_color_1_cost_5,bcard_size_7_color_1_cost_6,bcard_size_7_color_1_cost_7,bcard_size_7_color_1_cost_8,bcard_size_7_color_1_cost_9,bcard_size_7_color_2_cost_1,bcard_size_7_color_2_cost_2,bcard_size_7_color_2_cost_3,bcard_size_7_color_2_cost_4,bcard_size_7_color_2_cost_5,bcard_size_7_color_2_cost_6,bcard_size_7_color_2_cost_7,bcard_size_7_color_2_cost_8,bcard_size_7_color_2_cost_9,bcard_size_7_color_3_cost_1,bcard_size_7_color_3_cost_2,bcard_size_7_color_3_cost_3,bcard_size_7_color_3_cost_4,bcard_size_7_color_3_cost_5,bcard_size_7_color_3_cost_6,bcard_size_7_color_3_cost_7,bcard_size_7_color_3_cost_8,bcard_size_7_color_3_cost_9,bcard_size_8_color_1_cost_1,bcard_size_8_color_1_cost_2,bcard_size_8_color_1_cost_3,bcard_size_8_color_1_cost_4,bcard_size_8_color_1_cost_5,bcard_size_8_color_1_cost_6,bcard_size_8_color_1_cost_7,bcard_size_8_color_1_cost_8,bcard_size_8_color_1_cost_9,bcard_size_8_color_2_cost_1,bcard_size_8_color_2_cost_2,bcard_size_8_color_2_cost_3,bcard_size_8_color_2_cost_4,bcard_size_8_color_2_cost_5,bcard_size_8_color_2_cost_6,bcard_size_8_color_2_cost_7,bcard_size_8_color_2_cost_8,bcard_size_8_color_2_cost_9,bcard_size_8_color_3_cost_1,bcard_size_8_color_3_cost_2,bcard_size_8_color_3_cost_3,bcard_size_8_color_3_cost_4,bcard_size_8_color_3_cost_5,bcard_size_8_color_3_cost_6,bcard_size_8_color_3_cost_7,bcard_size_8_color_3_cost_8,bcard_size_8_color_3_cost_9,bcard_size_9_color_1_cost_1,bcard_size_9_color_1_cost_2,bcard_size_9_color_1_cost_3,bcard_size_9_color_1_cost_4,bcard_size_9_color_1_cost_5,bcard_size_9_color_1_cost_6,bcard_size_9_color_1_cost_7,bcard_size_9_color_1_cost_8,bcard_size_9_color_1_cost_9,bcard_size_9_color_2_cost_1,bcard_size_9_color_2_cost_2,bcard_size_9_color_2_cost_3,bcard_size_9_color_2_cost_4,bcard_size_9_color_2_cost_5,bcard_size_9_color_2_cost_6,bcard_size_9_color_2_cost_7,bcard_size_9_color_2_cost_8,bcard_size_9_color_2_cost_9,bcard_size_9_color_3_cost_1,bcard_size_9_color_3_cost_2,bcard_size_9_color_3_cost_3,bcard_size_9_color_3_cost_4,bcard_size_9_color_3_cost_5,bcard_size_9_color_3_cost_6,bcard_size_9_color_3_cost_7,bcard_size_9_color_3_cost_8,bcard_size_9_color_3_cost_9,bcard_size_10_color_1_cost_1,bcard_size_10_color_1_cost_2,bcard_size_10_color_1_cost_3,bcard_size_10_color_1_cost_4,bcard_size_10_color_1_cost_5,bcard_size_10_color_1_cost_6,bcard_size_10_color_1_cost_7,bcard_size_10_color_1_cost_8,bcard_size_10_color_1_cost_9,bcard_size_10_color_2_cost_1,bcard_size_10_color_2_cost_2,bcard_size_10_color_2_cost_3,bcard_size_10_color_2_cost_4,bcard_size_10_color_2_cost_5,bcard_size_10_color_2_cost_6,bcard_size_10_color_2_cost_7,bcard_size_10_color_2_cost_8,bcard_size_10_color_2_cost_9,bcard_size_10_color_3_cost_1,bcard_size_10_color_3_cost_2,bcard_size_10_color_3_cost_3,bcard_size_10_color_3_cost_4,bcard_size_10_color_3_cost_5,bcard_size_10_color_3_cost_6,bcard_size_10_color_3_cost_7,bcard_size_10_color_3_cost_8,bcard_size_10_color_3_cost_9,bcard_size_11_color_1_cost_1,bcard_size_11_color_1_cost_2,bcard_size_11_color_1_cost_3,bcard_size_11_color_1_cost_4,bcard_size_11_color_1_cost_5,bcard_size_11_color_1_cost_6,bcard_size_11_color_1_cost_7,bcard_size_11_color_1_cost_8,bcard_size_11_color_1_cost_9,bcard_size_11_color_2_cost_1,bcard_size_11_color_2_cost_2,bcard_size_11_color_2_cost_3,bcard_size_11_color_2_cost_4,bcard_size_11_color_2_cost_5,bcard_size_11_color_2_cost_6,bcard_size_11_color_2_cost_7,bcard_size_11_color_2_cost_8,bcard_size_11_color_2_cost_9,bcard_size_11_color_3_cost_1,bcard_size_11_color_3_cost_2,bcard_size_11_color_3_cost_3,bcard_size_11_color_3_cost_4,bcard_size_11_color_3_cost_5,bcard_size_11_color_3_cost_6,bcard_size_11_color_3_cost_7,bcard_size_11_color_3_cost_8,bcard_size_11_color_3_cost_9,bcard_size_12_color_1_cost_1,bcard_size_12_color_1_cost_2,bcard_size_12_color_1_cost_3,bcard_size_12_color_1_cost_4,bcard_size_12_color_1_cost_5,bcard_size_12_color_1_cost_6,bcard_size_12_color_1_cost_7,bcard_size_12_color_1_cost_8,bcard_size_12_color_1_cost_9,bcard_size_12_color_2_cost_1,bcard_size_12_color_2_cost_2,bcard_size_12_color_2_cost_3,bcard_size_12_color_2_cost_4,bcard_size_12_color_2_cost_5,bcard_size_12_color_2_cost_6,bcard_size_12_color_2_cost_7,bcard_size_12_color_2_cost_8,bcard_size_12_color_2_cost_9,bcard_size_12_color_3_cost_1,bcard_size_12_color_3_cost_2,bcard_size_12_color_3_cost_3,bcard_size_12_color_3_cost_4,bcard_size_12_color_3_cost_5,bcard_size_12_color_3_cost_6,bcard_size_12_color_3_cost_7,bcard_size_12_color_3_cost_8,bcard_size_12_color_3_cost_9,bcard_size_13_color_1_cost_1,bcard_size_13_color_1_cost_2,bcard_size_13_color_1_cost_3,bcard_size_13_color_1_cost_4,bcard_size_13_color_1_cost_5,bcard_size_13_color_1_cost_6,bcard_size_13_color_1_cost_7,bcard_size_13_color_1_cost_8,bcard_size_13_color_1_cost_9,bcard_size_13_color_2_cost_1,bcard_size_13_color_2_cost_2,bcard_size_13_color_2_cost_3,bcard_size_13_color_2_cost_4,bcard_size_13_color_2_cost_5,bcard_size_13_color_2_cost_6,bcard_size_13_color_2_cost_7,bcard_size_13_color_2_cost_8,bcard_size_13_color_2_cost_9,bcard_size_13_color_3_cost_1,bcard_size_13_color_3_cost_2,bcard_size_13_color_3_cost_3,bcard_size_13_color_3_cost_4,bcard_size_13_color_3_cost_5,bcard_size_13_color_3_cost_6,bcard_size_13_color_3_cost_7,bcard_size_13_color_3_cost_8,bcard_size_13_color_3_cost_9,bcard_size_14_color_1_cost_1,bcard_size_14_color_1_cost_2,bcard_size_14_color_1_cost_3,bcard_size_14_color_1_cost_4,bcard_size_14_color_1_cost_5,bcard_size_14_color_1_cost_6,bcard_size_14_color_1_cost_7,bcard_size_14_color_1_cost_8,bcard_size_14_color_1_cost_9,bcard_size_14_color_2_cost_1,bcard_size_14_color_2_cost_2,bcard_size_14_color_2_cost_3,bcard_size_14_color_2_cost_4,bcard_size_14_color_2_cost_5,bcard_size_14_color_2_cost_6,bcard_size_14_color_2_cost_7,bcard_size_14_color_2_cost_8,bcard_size_14_color_2_cost_9,bcard_size_14_color_3_cost_1,bcard_size_14_color_3_cost_2,bcard_size_14_color_3_cost_3,bcard_size_14_color_3_cost_4,bcard_size_14_color_3_cost_5,bcard_size_14_color_3_cost_6,bcard_size_14_color_3_cost_7,bcard_size_14_color_3_cost_8,bcard_size_14_color_3_cost_9,bcard_size_15_color_1_cost_1,bcard_size_15_color_1_cost_2,bcard_size_15_color_1_cost_3,bcard_size_15_color_1_cost_4,bcard_size_15_color_1_cost_5,bcard_size_15_color_1_cost_6,bcard_size_15_color_1_cost_7,bcard_size_15_color_1_cost_8,bcard_size_15_color_1_cost_9,bcard_size_15_color_2_cost_1,bcard_size_15_color_2_cost_2,bcard_size_15_color_2_cost_3,bcard_size_15_color_2_cost_4,bcard_size_15_color_2_cost_5,bcard_size_15_color_2_cost_6,bcard_size_15_color_2_cost_7,bcard_size_15_color_2_cost_8,bcard_size_15_color_2_cost_9,bcard_size_15_color_3_cost_1,bcard_size_15_color_3_cost_2,bcard_size_15_color_3_cost_3,bcard_size_15_color_3_cost_4,bcard_size_15_color_3_cost_5,bcard_size_15_color_3_cost_6,bcard_size_15_color_3_cost_7,bcard_size_15_color_3_cost_8,bcard_size_15_color_3_cost_9,bcard_size_16_color_1_cost_1,bcard_size_16_color_1_cost_2,bcard_size_16_color_1_cost_3,bcard_size_16_color_1_cost_4,bcard_size_16_color_1_cost_5,bcard_size_16_color_1_cost_6,bcard_size_16_color_1_cost_7,bcard_size_16_color_1_cost_8,bcard_size_16_color_1_cost_9,bcard_size_16_color_2_cost_1,bcard_size_16_color_2_cost_2,bcard_size_16_color_2_cost_3,bcard_size_16_color_2_cost_4,bcard_size_16_color_2_cost_5,bcard_size_16_color_2_cost_6,bcard_size_16_color_2_cost_7,bcard_size_16_color_2_cost_8,bcard_size_16_color_2_cost_9,bcard_size_17_color_1_cost_1,bcard_size_17_color_1_cost_2,bcard_size_17_color_1_cost_3,bcard_size_17_color_1_cost_4,bcard_size_17_color_1_cost_5,bcard_size_17_color_1_cost_6,bcard_size_17_color_1_cost_7,bcard_size_17_color_1_cost_8,bcard_size_17_color_1_cost_9,bcard_size_17_color_2_cost_1,bcard_size_17_color_2_cost_2,bcard_size_17_color_2_cost_3,bcard_size_17_color_2_cost_4,bcard_size_17_color_2_cost_5,bcard_size_17_color_2_cost_6,bcard_size_17_color_2_cost_7,bcard_size_17_color_2_cost_8,bcard_size_17_color_2_cost_9,bcard_size_18_color_1_cost_1,bcard_size_18_color_1_cost_2,bcard_size_18_color_1_cost_3,bcard_size_18_color_1_cost_4,bcard_size_18_color_1_cost_5,bcard_size_18_color_1_cost_6,bcard_size_18_color_1_cost_7,bcard_size_18_color_1_cost_8,bcard_size_18_color_1_cost_9,bcard_size_18_color_2_cost_1,bcard_size_18_color_2_cost_2,bcard_size_18_color_2_cost_3,bcard_size_18_color_2_cost_4,bcard_size_18_color_2_cost_5,bcard_size_18_color_2_cost_6,bcard_size_18_color_2_cost_7,bcard_size_18_color_2_cost_8,bcard_size_18_color_2_cost_9,bcard_size_19_color_1_cost_1,bcard_size_19_color_1_cost_2,bcard_size_19_color_1_cost_3,bcard_size_19_color_1_cost_4,bcard_size_19_color_1_cost_5,bcard_size_19_color_1_cost_6,bcard_size_19_color_1_cost_7,bcard_size_19_color_1_cost_8,bcard_size_19_color_1_cost_9,bcard_size_19_color_2_cost_1,bcard_size_19_color_2_cost_2,bcard_size_19_color_2_cost_3,bcard_size_19_color_2_cost_4,bcard_size_19_color_2_cost_5,bcard_size_19_color_2_cost_6,bcard_size_19_color_2_cost_7,bcard_size_19_color_2_cost_8,bcard_size_19_color_2_cost_9,bcard_size_20_color_1_cost_1,bcard_size_20_color_1_cost_2,bcard_size_20_color_1_cost_3,bcard_size_20_color_1_cost_4,bcard_size_20_color_1_cost_5,bcard_size_20_color_1_cost_6,bcard_size_20_color_1_cost_7,bcard_size_20_color_1_cost_8,bcard_size_20_color_1_cost_9,bcard_size_20_color_2_cost_1,bcard_size_20_color_2_cost_2,bcard_size_20_color_2_cost_3,bcard_size_20_color_2_cost_4,bcard_size_20_color_2_cost_5,bcard_size_20_color_2_cost_6,bcard_size_20_color_2_cost_7,bcard_size_20_color_2_cost_8,bcard_size_20_color_2_cost_9,bcard_size_21_color_1_cost_1,bcard_size_21_color_1_cost_2,bcard_size_21_color_1_cost_3,bcard_size_21_color_1_cost_4,bcard_size_21_color_1_cost_5,bcard_size_21_color_1_cost_6,bcard_size_21_color_1_cost_7,bcard_size_21_color_1_cost_8,bcard_size_21_color_1_cost_9,bcard_size_21_color_2_cost_1,bcard_size_21_color_2_cost_2,bcard_size_21_color_2_cost_3,bcard_size_21_color_2_cost_4,bcard_size_21_color_2_cost_5,bcard_size_21_color_2_cost_6,bcard_size_21_color_2_cost_7,bcard_size_21_color_2_cost_8,bcard_size_21_color_2_cost_9,bcard_size_22_color_1_cost_1,bcard_size_22_color_1_cost_2,bcard_size_22_color_1_cost_3,bcard_size_22_color_1_cost_4,bcard_size_22_color_1_cost_5,bcard_size_22_color_1_cost_6,bcard_size_22_color_1_cost_7,bcard_size_22_color_1_cost_8,bcard_size_22_color_1_cost_9,bcard_size_22_color_2_cost_1,bcard_size_22_color_2_cost_2,bcard_size_22_color_2_cost_3,bcard_size_22_color_2_cost_4,bcard_size_22_color_2_cost_5,bcard_size_22_color_2_cost_6,bcard_size_22_color_2_cost_7,bcard_size_22_color_2_cost_8,bcard_size_22_color_2_cost_9,bcard_size_23_color_1_cost_1,bcard_size_23_color_1_cost_2,bcard_size_23_color_1_cost_3,bcard_size_23_color_1_cost_4,bcard_size_23_color_1_cost_5,bcard_size_23_color_1_cost_6,bcard_size_23_color_1_cost_7,bcard_size_23_color_1_cost_8,bcard_size_23_color_1_cost_9,bcard_size_23_color_2_cost_1,bcard_size_23_color_2_cost_2,bcard_size_23_color_2_cost_3,bcard_size_23_color_2_cost_4,bcard_size_23_color_2_cost_5,bcard_size_23_color_2_cost_6,bcard_size_23_color_2_cost_7,bcard_size_23_color_2_cost_8,bcard_size_23_color_2_cost_9,bcard_size_24_color_1_cost_1,bcard_size_24_color_1_cost_2,bcard_size_24_color_1_cost_3,bcard_size_24_color_1_cost_4,bcard_size_24_color_1_cost_5,bcard_size_24_color_1_cost_6,bcard_size_24_color_1_cost_7,bcard_size_24_color_1_cost_8,bcard_size_24_color_1_cost_9,bcard_size_24_color_2_cost_1,bcard_size_24_color_2_cost_2,bcard_size_24_color_2_cost_3,bcard_size_24_color_2_cost_4,bcard_size_24_color_2_cost_5,bcard_size_24_color_2_cost_6,bcard_size_24_color_2_cost_7,bcard_size_24_color_2_cost_8,bcard_size_24_color_2_cost_9,bcard_size_25_color_1_cost_1,bcard_size_25_color_1_cost_2,bcard_size_25_color_1_cost_3,bcard_size_25_color_1_cost_4,bcard_size_25_color_1_cost_5,bcard_size_25_color_1_cost_6,bcard_size_25_color_1_cost_7,bcard_size_25_color_1_cost_8,bcard_size_25_color_1_cost_9,bcard_size_25_color_2_cost_1,bcard_size_25_color_2_cost_2,bcard_size_25_color_2_cost_3,bcard_size_25_color_2_cost_4,bcard_size_25_color_2_cost_5,bcard_size_25_color_2_cost_6,bcard_size_25_color_2_cost_7,bcard_size_25_color_2_cost_8,bcard_size_25_color_2_cost_9,bcard_size_26_color_1_cost_1,bcard_size_26_color_1_cost_2,bcard_size_26_color_1_cost_3,bcard_size_26_color_1_cost_4,bcard_size_26_color_1_cost_5,bcard_size_26_color_1_cost_6,bcard_size_26_color_1_cost_7,bcard_size_26_color_1_cost_8,bcard_size_26_color_1_cost_9,bcard_size_26_color_2_cost_1,bcard_size_26_color_2_cost_2,bcard_size_26_color_2_cost_3,bcard_size_26_color_2_cost_4,bcard_size_26_color_2_cost_5,bcard_size_26_color_2_cost_6,bcard_size_26_color_2_cost_7,bcard_size_26_color_2_cost_8,bcard_size_26_color_2_cost_9,bcard_size_27_color_1_cost_1,bcard_size_27_color_1_cost_2,bcard_size_27_color_1_cost_3,bcard_size_27_color_1_cost_4,bcard_size_27_color_1_cost_5,bcard_size_27_color_1_cost_6,bcard_size_27_color_1_cost_7,bcard_size_27_color_1_cost_8,bcard_size_27_color_1_cost_9,bcard_size_27_color_2_cost_1,bcard_size_27_color_2_cost_2,bcard_size_27_color_2_cost_3,bcard_size_27_color_2_cost_4,bcard_size_27_color_2_cost_5,bcard_size_27_color_2_cost_6,bcard_size_27_color_2_cost_7,bcard_size_27_color_2_cost_8,bcard_size_27_color_2_cost_9,bcard_size_28_color_1_cost_1,bcard_size_28_color_1_cost_2,bcard_size_28_color_1_cost_3,bcard_size_28_color_1_cost_4,bcard_size_28_color_1_cost_5,bcard_size_28_color_1_cost_6,bcard_size_28_color_1_cost_7,bcard_size_28_color_1_cost_8,bcard_size_28_color_1_cost_9,bcard_size_28_color_2_cost_1,bcard_size_28_color_2_cost_2,bcard_size_28_color_2_cost_3,bcard_size_28_color_2_cost_4,bcard_size_28_color_2_cost_5,bcard_size_28_color_2_cost_6,bcard_size_28_color_2_cost_7,bcard_size_28_color_2_cost_8,bcard_size_28_color_2_cost_9,bcard_size_29_color_1_cost_1,bcard_size_29_color_1_cost_2,bcard_size_29_color_1_cost_3,bcard_size_29_color_1_cost_4,bcard_size_29_color_1_cost_5,bcard_size_29_color_1_cost_6,bcard_size_29_color_1_cost_7,bcard_size_29_color_1_cost_8,bcard_size_29_color_1_cost_9,bcard_size_29_color_2_cost_1,bcard_size_29_color_2_cost_2,bcard_size_29_color_2_cost_3,bcard_size_29_color_2_cost_4,bcard_size_29_color_2_cost_5,bcard_size_29_color_2_cost_6,bcard_size_29_color_2_cost_7,bcard_size_29_color_2_cost_8,bcard_size_29_color_2_cost_9,bcard_size_30_color_1_cost_1,bcard_size_30_color_1_cost_2,bcard_size_30_color_1_cost_3,bcard_size_30_color_1_cost_4,bcard_size_30_color_1_cost_5,bcard_size_30_color_1_cost_6,bcard_size_30_color_1_cost_7,bcard_size_30_color_1_cost_8,bcard_size_30_color_1_cost_9,bcard_size_30_color_2_cost_1,bcard_size_30_color_2_cost_2,bcard_size_30_color_2_cost_3,bcard_size_30_color_2_cost_4,bcard_size_30_color_2_cost_5,bcard_size_30_color_2_cost_6,bcard_size_30_color_2_cost_7,bcard_size_30_color_2_cost_8,bcard_size_30_color_2_cost_9,bcard_size_31_color_1_cost_1,bcard_size_31_color_1_cost_2,bcard_size_31_color_1_cost_3,bcard_size_31_color_1_cost_4,bcard_size_31_color_1_cost_5,bcard_size_31_color_1_cost_6,bcard_size_31_color_1_cost_7,bcard_size_31_color_1_cost_8,bcard_size_31_color_1_cost_9,bcard_size_31_color_2_cost_1,bcard_size_31_color_2_cost_2,bcard_size_31_color_2_cost_3,bcard_size_31_color_2_cost_4,bcard_size_31_color_2_cost_5,bcard_size_31_color_2_cost_6,bcard_size_31_color_2_cost_7,bcard_size_31_color_2_cost_8,bcard_size_31_color_2_cost_9,bcard_size_32_color_1_cost_1,bcard_size_32_color_1_cost_2,bcard_size_32_color_1_cost_3,bcard_size_32_color_1_cost_4,bcard_size_32_color_1_cost_5,bcard_size_32_color_1_cost_6,bcard_size_32_color_1_cost_7,bcard_size_32_color_1_cost_8,bcard_size_32_color_1_cost_9,bcard_size_32_color_2_cost_1,bcard_size_32_color_2_cost_2,bcard_size_32_color_2_cost_3,bcard_size_32_color_2_cost_4,bcard_size_32_color_2_cost_5,bcard_size_32_color_2_cost_6,bcard_size_32_color_2_cost_7,bcard_size_32_color_2_cost_8,bcard_size_32_color_2_cost_9,bcard_size_33_color_1_cost_1,bcard_size_33_color_1_cost_2,bcard_size_33_color_1_cost_3,bcard_size_33_color_1_cost_4,bcard_size_33_color_1_cost_5,bcard_size_33_color_1_cost_6,bcard_size_33_color_1_cost_7,bcard_size_33_color_1_cost_8,bcard_size_33_color_1_cost_9,bcard_size_33_color_2_cost_1,bcard_size_33_color_2_cost_2,bcard_size_33_color_2_cost_3,bcard_size_33_color_2_cost_4,bcard_size_33_color_2_cost_5,bcard_size_33_color_2_cost_6,bcard_size_33_color_2_cost_7,bcard_size_33_color_2_cost_8,bcard_size_33_color_2_cost_9,bcard_size_34_color_1_cost_1,bcard_size_34_color_1_cost_2,bcard_size_34_color_1_cost_3,bcard_size_34_color_1_cost_4,bcard_size_34_color_1_cost_5,bcard_size_34_color_1_cost_6,bcard_size_34_color_1_cost_7,bcard_size_34_color_1_cost_8,bcard_size_34_color_1_cost_9,bcard_size_34_color_2_cost_1,bcard_size_34_color_2_cost_2,bcard_size_34_color_2_cost_3,bcard_size_34_color_2_cost_4,bcard_size_34_color_2_cost_5,bcard_size_34_color_2_cost_6,bcard_size_34_color_2_cost_7,bcard_size_34_color_2_cost_8,bcard_size_34_color_2_cost_9,bcard_size_35_color_1_cost_1,bcard_size_35_color_1_cost_2,bcard_size_35_color_1_cost_3,bcard_size_35_color_1_cost_4,bcard_size_35_color_1_cost_5,bcard_size_35_color_1_cost_6,bcard_size_35_color_1_cost_7,bcard_size_35_color_1_cost_8,bcard_size_35_color_1_cost_9,bcard_size_35_color_2_cost_1,bcard_size_35_color_2_cost_2,bcard_size_35_color_2_cost_3,bcard_size_35_color_2_cost_4,bcard_size_35_color_2_cost_5,bcard_size_35_color_2_cost_6,bcard_size_35_color_2_cost_7,bcard_size_35_color_2_cost_8,bcard_size_35_color_2_cost_9,bcard_size_36_color_1_cost_1,bcard_size_36_color_1_cost_2,bcard_size_36_color_1_cost_3,bcard_size_36_color_1_cost_4,bcard_size_36_color_1_cost_5,bcard_size_36_color_1_cost_6,bcard_size_36_color_1_cost_7,bcard_size_36_color_1_cost_8,bcard_size_36_color_1_cost_9,bcard_size_36_color_2_cost_1,bcard_size_36_color_2_cost_2,bcard_size_36_color_2_cost_3,bcard_size_36_color_2_cost_4,bcard_size_36_color_2_cost_5,bcard_size_36_color_2_cost_6,bcard_size_36_color_2_cost_7,bcard_size_36_color_2_cost_8,bcard_size_36_color_2_cost_9,bcard_size_37_color_1_cost_1,bcard_size_37_color_1_cost_2,bcard_size_37_color_1_cost_3,bcard_size_37_color_1_cost_4,bcard_size_37_color_1_cost_5,bcard_size_37_color_1_cost_6,bcard_size_37_color_1_cost_7,bcard_size_37_color_1_cost_8,bcard_size_37_color_1_cost_9,bcard_size_37_color_2_cost_1,bcard_size_37_color_2_cost_2,bcard_size_37_color_2_cost_3,bcard_size_37_color_2_cost_4,bcard_size_37_color_2_cost_5,bcard_size_37_color_2_cost_6,bcard_size_37_color_2_cost_7,bcard_size_37_color_2_cost_8,bcard_size_37_color_2_cost_9,bcard_size_38_color_1_cost_1,bcard_size_38_color_1_cost_2,bcard_size_38_color_1_cost_3,bcard_size_38_color_1_cost_4,bcard_size_38_color_1_cost_5,bcard_size_38_color_1_cost_6,bcard_size_38_color_1_cost_7,bcard_size_38_color_1_cost_8,bcard_size_38_color_1_cost_9,bcard_size_38_color_2_cost_1,bcard_size_38_color_2_cost_2,bcard_size_38_color_2_cost_3,bcard_size_38_color_2_cost_4,bcard_size_38_color_2_cost_5,bcard_size_38_color_2_cost_6,bcard_size_38_color_2_cost_7,bcard_size_38_color_2_cost_8,bcard_size_38_color_2_cost_9,bcard_size_39_color_1_cost_1,bcard_size_39_color_1_cost_2,bcard_size_39_color_1_cost_3,bcard_size_39_color_1_cost_4,bcard_size_39_color_1_cost_5,bcard_size_39_color_1_cost_6,bcard_size_39_color_1_cost_7,bcard_size_39_color_1_cost_8,bcard_size_39_color_1_cost_9,bcard_size_39_color_2_cost_1,bcard_size_39_color_2_cost_2,bcard_size_39_color_2_cost_3,bcard_size_39_color_2_cost_4,bcard_size_39_color_2_cost_5,bcard_size_39_color_2_cost_6,bcard_size_39_color_2_cost_7,bcard_size_39_color_2_cost_8,bcard_size_39_color_2_cost_9,bcard_size_40_color_1_cost_1,bcard_size_40_color_1_cost_2,bcard_size_40_color_1_cost_3,bcard_size_40_color_1_cost_4,bcard_size_40_color_1_cost_5,bcard_size_40_color_1_cost_6,bcard_size_40_color_1_cost_7,bcard_size_40_color_1_cost_8,bcard_size_40_color_1_cost_9,bcard_size_40_color_2_cost_1,bcard_size_40_color_2_cost_2,bcard_size_40_color_2_cost_3,bcard_size_40_color_2_cost_4,bcard_size_40_color_2_cost_5,bcard_size_40_color_2_cost_6,bcard_size_40_color_2_cost_7,bcard_size_40_color_2_cost_8,bcard_size_40_color_2_cost_9,bcard_round_corner_cost_1,bcard_round_corner_cost_2,bcard_round_corner_cost_3,bcard_round_corner_cost_4,bcard_round_corner_cost_5,bcard_round_corner_cost_6,bcard_round_corner_cost_7,bcard_round_corner_cost_8,bcard_round_corner_cost_9">
+
+</div>
+</form>
